@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _github
   - scope:
       path: ""
-      type: teaching
+      type: github
     values:
       layout: single
       author_profile: true
